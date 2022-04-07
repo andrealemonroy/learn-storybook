@@ -41,6 +41,9 @@ export const color = {
   positive: '#66BF3C',
   negative: '#FF4400',
   warning: '#E69D00',
+
+  white: '#FFFFFF',
+  black: '#000000'
 };
 
 export const spacing = {
